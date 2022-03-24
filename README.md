@@ -1,2 +1,4 @@
 # TedN1
-Curso em vídeo da materia de desenvolvimento moveis
+Curso em vídeo de Git hub da materia de desenvolvimento moveis
+
+Respositorio criado durante uma aula ao vivo!
